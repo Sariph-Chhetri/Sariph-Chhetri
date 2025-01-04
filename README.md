@@ -1,5 +1,4 @@
-
-👋 Hi, I’m @Sariph-Chhetri
+👋 Hi, I’m @Sariph-Chhetri <br>
 👀 I’m interested in Web Development and learning new technologies
 🌱 I’m currently learning MERN stack
 💞️ I’m looking to collaborate on any creative project (if you have creative ideas feel free to DM me)
