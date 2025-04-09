@@ -4,7 +4,7 @@
 👀 I’m interested in Web Development and learning new technologies<br>
 🌱 I’m currently learning MERN stack<br>
 💞️ I’m looking to collaborate on any creative project (if you have creative ideas feel free to DM me)<br>
-📫 You can DM or follow me on instagram : https://www.instagram.com/<br>
+📫 You can DM or follow me on instagram : [https://www.instagram.com/](https://www.instagram.com/sariph_chhetri63/)<br>
 ⚡ Fun fact: I love reading manhua and manhwa so if you have or need good recommendations, I'm always here<br>
 
 <!---
